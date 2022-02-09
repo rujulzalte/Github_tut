@@ -2,7 +2,7 @@ def main:
     print("This is main")
 
 def feature1:
-    pass
+    print("This is feature1")
 
 def feature2:
     pass
